@@ -1,13 +1,9 @@
 # Web3 Basics
 
-This repository contains structured notes on **Web3 fundamentals**, divided into **General**, **Client**, and **Contract** sections.
+This repository contains structured notes on **Web3 fundamentals**.
 
 ---
 
-##  Contents
-- [General](#-general)
-- [Client](#-client)
-- [Contract](#-contract)
 
 ---
 

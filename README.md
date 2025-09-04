@@ -2,10 +2,7 @@
 
 This repository contains structured notes on **Web3 fundamentals**.
 
----
 
-
----
 
 ##  General
 Core Web3 concepts you should know before diving into development:

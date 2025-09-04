@@ -21,7 +21,7 @@ Core Web3 concepts you should know before diving into development:
 - **RPC**
   - Common RPC methods on Ethereum & Solana
 
----
+
 Essential client-side fundamentals for interacting with blockchain networks:
 
 - Gas  

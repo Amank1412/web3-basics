@@ -1,17 +1,17 @@
-# 🌐 Web3 Notes
+# Web3 Notes
 
 This repository contains structured notes on **Web3 fundamentals**, divided into **General**, **Client**, and **Contract** sections.
 
 ---
 
-## 📖 Contents
+##  Contents
 - [General](#-general)
 - [Client](#-client)
 - [Contract](#-contract)
 
 ---
 
-## ⚡ General
+##  General
 Core Web3 concepts you should know before diving into development:
 
 - **Intro to Blockchain**
@@ -29,8 +29,6 @@ Core Web3 concepts you should know before diving into development:
   - Common RPC methods on Ethereum & Solana
 
 ---
-
-## 💻 Client
 Essential client-side fundamentals for interacting with blockchain networks:
 
 - Gas  
@@ -41,11 +39,5 @@ Essential client-side fundamentals for interacting with blockchain networks:
 - Block Explorers  
 - Creating Wallets  
 - Putting Tokens  
-
----
-
-## 📜 Contract
-> *Coming soon…*  
-This section will include smart contract concepts, tools, and best practices.
 
 
